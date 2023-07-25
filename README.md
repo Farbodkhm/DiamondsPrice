@@ -18,4 +18,4 @@ This Dataset represents a range of diamonds with different features such as size
 |`z`|Diamond depth in mm|
 |`depth`|Percentage depth that is equal to z / mean(x,y)|
 |`table`|The width of the widest point at the top of the diamond|
-|`price [target variable]`|Diamond price|
+|`price [Target Variable]`|Diamond price|
